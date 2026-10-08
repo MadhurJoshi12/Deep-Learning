@@ -1,0 +1,2 @@
+# Deep Learning
+A hands-on deep learning repository covering the core concepts, mathematics, architectures, and practical implementations I learned throughout my deep learning journey. This repository includes neural networks, forward and backward propagation, optimization, loss functions, regularization, CNNs, PyTorch, and model training/evaluation, along with practical experiments and projects.  Built to strengthen my understanding of deep learning from fundamentals to implementation.
